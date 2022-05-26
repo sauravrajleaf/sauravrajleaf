@@ -10,6 +10,7 @@ I love to work on web development tasks focussing mainly on backend tasks. Curre
 * CSS
 * JS
 * React
+* Redux
 * Node
 * Express
 * MongoDB
